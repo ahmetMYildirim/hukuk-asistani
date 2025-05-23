@@ -34,8 +34,4 @@ Notebook içerisinde:
 - Model eğitimi
 - Çıktı üretme adımları yer almaktadır.
 
-## 📬 Katkıda Bulun
-
-Katkı sağlamak isterseniz pull request gönderebilir veya issue açabilirsiniz.
-
 ---
