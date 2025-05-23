@@ -1,2 +1,2 @@
 # Hukuk Asistanı
-![Tensorboard eğitim sonucu grafiksel veriler](dosya_adı.png)
+![Tensorboard eğitim sonucu grafiksel veriler](tensorboard grafiksel metrikler.png)
